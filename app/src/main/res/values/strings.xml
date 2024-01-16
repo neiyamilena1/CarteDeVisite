@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Carte de visite</string>
+    <string name="full_name">Jennifer Doe</string>
+    <string name="titre">Android Developper Extraordinaire</string>
+</resources>
